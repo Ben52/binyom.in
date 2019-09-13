@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/bengie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://binyom.in
+  * I am bengie (https://keybase.io/bengie) on keybase.
+  * I have a public key with fingerprint 7178 1AD8 4467 6EE3 311E  4469 2A91 FE32 36FD 4F7D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012044ab81d8b58ae6a1dfa52aaddb212189d0decc8a2d2677559fd3abe8a3dd45e90a",
+      "fingerprint": "71781ad844676ee3311e44692a91fe3236fd4f7d",
+      "host": "keybase.io",
+      "key_id": "2a91fe3236fd4f7d",
+      "kid": "01019dd9d8c5dcd0a8f5d08869a05e6468d253545aeab2714cb0cbbcc7f66b62f3b70a",
+      "uid": "8c903b37d9a25dca81138de7f24a1619",
+      "username": "bengie"
+    },
+    "service": {
+      "hostname": "binyom.in",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568387549,
+  "expire_in": 157680000,
+  "prev": "3cf1287c61b0565b968acde25258c8d29144ef29e877e6c56a3c5c355bd29073",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNoAnicbVJtUFRVGF4EAbEdaMJmbGiAW8Y33XM/z93JEDQjhgSjIAFlzr3n3PXy
+cXfdD4RZMZNBw0yHUIMgJpoRQSaYGtFxBykUnXATf4hjhhCj1hJNplM6aYLdZeJf
+58857/s+z3Oe9513xBxsighKbppnhLm8uiDfcLPbtNnz1aSHkm24lrJ4qAqycJFK
+TJyusgoNUxaKBgzNcUiGAEOZh4gICGAV8QxCGMsMYACUMI2JokDEYEYQRZ6XVMwi
+mUDEYszxRKIRlUqpmm4lDrtD012GrAhECBCGHCeIAiEsCwAx3hKDJKASlmEFFXOq
+iA3iVpszwDDMychJ0jWbkTOCsgV7/4Nf9E0DCWMJQ4XHCqYRVHlMQyhIiOaJwAkQ
+MzzLczwiSGZEwCkyrciyooiqIMgCo7KyuODbvSAHFYlmZVbEEmIMPQQBYCEmospw
+CAhACgCdxKGjKmKgZaJbNULVpVJGrlpTSGCsgT4W65pea6tK13SDZnfYXDbFVmmk
+t7pcdqclQHPV2gO47UQu+0+hzOBgY4QGo5o4nJpNpyzAQCouLSAJeAGyUOQ5KZUi
+NXbNQcq0AIIXBUgbJ/APqTYkWUUFDBQVAcg0L/CyJECkYMLwDA8VYyYS4DiiMhKB
+okgEhRcQq/AKy/OyUaNFlgr0tE23URYGGD6R1dB0alYdudwOo+Ozw6UhpqAIU+jS
+JYHdMkUsi1rcuKutkY/DVxzJ7z/it9XNtnRG1v/ZeT6sfXrdaakLURXxGz0bsy6/
+3dQX27a8BfV27Mrt/bKgYcuKT1Kp/qJ+5efEnrYaS35EzIY94+UDA49yvv7FrM2V
+i/Qa7/7yzxuS/DODfw2ZNt1+dyKX9tXHXk92pfWOqsWR6SPBBQeas6qix3N2j49F
+rTrk/Ps4/G5PhC/jQy6laoMUVOLP1lcmTeelTNyMnstkXwNvhF1a6b6SpOzPPh7H
+fXrf8+hC1ItF7zeUN1bE3+g9WRjenGBNm6o50/prq3vbZ3mJV6STZnP7k3dCvnGu
+PcB8q0zl5r/+webk0aPdevpgS+Ldxs7GSuehqBzx2MHsl/zLPN7RZ0fPvnrf0yQM
+ntqZ/kJo6/mLb05dK9VmXsnJTuqKLCmJwf9kXa4sj6m+YfYnh7nj9sWRx8+JKZ7s
+c9tLdzyUoodyM/Xuexn2M3N35YPs0/UfdxU2z9xLCD79Rx/1m0e6tmsy9kHI2nMt
+d4p/93KO9QVJPxR7xemCsPVDP036H/rW7PzROsDeHuq0fNRO6KL5sYQvSm9O+CJL
+x64W5/tmjjp9O77PnT18J+3Y4PJbnu73wJZ65Owwdzw5tY733grxdg8/00VmW5fW
+PrV39fM9I5C+uAmqfY0n9jYtCX+wenz3W40nMlb1tl0IDTqcJpd0Z0Zdir9eN1/Y
+43mZre/8F97ruX4=
+=11AR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bengie
+
+==================================================================
