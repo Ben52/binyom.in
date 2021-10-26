@@ -7,7 +7,7 @@ published: true
 Perspiciatis non quod suscipit nesciunt a voluptatem. Sapiente ratione molestiae officia excepturi necessitatibus. Necessitatibus consequatur quae veritatis natus dolore.
 
 ```elm
-model : { name : String }
+model : { firstName : String, lastName: String }
 model =
-    { name = "Binyomin" }
+    { firstName = "Binyomin", lastName = "Greenes" }
 ```
